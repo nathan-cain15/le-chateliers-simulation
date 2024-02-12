@@ -1,1 +1,1 @@
-# le-chateliers-simulation
+# le chatelier's principle simulation
